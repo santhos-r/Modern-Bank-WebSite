@@ -1,5 +1,5 @@
 import styles from "../style";
-import { logo } from "../assets";
+import { logo } from "../Assets";
 import { footerLinks, socialMedia } from "../constants";
 
 const Footer = () => (
